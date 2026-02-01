@@ -61,8 +61,8 @@ var APP_DATA = {
           "text": "Questa tela fu realizzata da Giovanni Antonio Pucci nel 1730ca.&nbsp;&nbsp;<div><b>Questo dipinto e quello che si trova sulla parete opposta sono gli unici non realizzati da Anton Domenico Bamberini all'interno della chiesa.</b></div>"
         },
         {
-          "yaw": -2.6855428879845675,
-          "pitch": -0.6252857195340162,
+          "yaw": -2.6945269218715975,
+          "pitch": -0.6264775301460634,
           "title": "<i>Il Santissimo Crocifisso</i>",
           "text": "Il <b>Crocifisso</b> ligneo è custodito qui.&nbsp;<div><br></div><div>Se vuoi conoscere le vicende storiche del <b>miracoloso Crocifisso di Castelvecchio</b>, puoi leggere il <b>testo n. 1</b>.</div>"
         },
@@ -76,7 +76,7 @@ var APP_DATA = {
           "yaw": -0.557175664103827,
           "pitch": -0.5857143741314896,
           "title": "I Quattro Evangelisti",
-          "text": "Text"
+          "text": "Le quattro grandi sculture degli Evangelisti sono contenute nelle nicchie poste all'incrocio dei bracci della chiesa."
         },
         {
           "yaw": 1.0998927745456122,
